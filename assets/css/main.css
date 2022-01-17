@@ -493,6 +493,7 @@ label {
 input[type="text"],
 input[type="password"],
 input[type="email"],
+input[type="date"],
 input[type="tel"],
 select,
 textarea {
@@ -565,6 +566,8 @@ select::-ms-expand {
 input[type="text"],
 input[type="password"],
 input[type="email"],
+input[type="tel"],
+input[type="date"],
 select {
   height: 2.75rem;
 }
